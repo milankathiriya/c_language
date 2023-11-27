@@ -1,7 +1,6 @@
 # C Language
 
-## Chapter 1
-## Introduction to C Language
+## Chapter 1 - Introduction to C Language
 
 ### Lec. 1.1
 - What is Programming?
