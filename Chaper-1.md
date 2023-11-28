@@ -4,5 +4,5 @@
 - [What is Programming?](https://medium.com/@milankathiriya/what-is-programming-fe7a0dc39a7a)
 - [History of C](https://medium.com/@milankathiriya/the-history-of-the-c-language-b9deb0155bf0)
 - [Importance of C](https://medium.com/@milankathiriya/importance-features-of-c-language-7fe80a1a754b)
-- Compiler & Interpreter
+- [Compiler & Interpreter](https://medium.com/@milankathiriya/translator-compiler-interpreter-522ce6b75e55)
 - Installation and Intro of Turbo C++
