@@ -8,3 +8,8 @@
 - Importance of C
 - Compiler & Interpreter
 - Installation and Intro of Turbo C++
+
+### Lec. 1.2
+- Simple printf() Function
+- Escape Sequence Characters (\n & \t)
+- Basic Program
