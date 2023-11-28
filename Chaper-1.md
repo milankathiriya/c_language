@@ -5,4 +5,4 @@
 - [History of C](https://medium.com/@milankathiriya/the-history-of-the-c-language-b9deb0155bf0)
 - [Importance of C](https://medium.com/@milankathiriya/importance-features-of-c-language-7fe80a1a754b)
 - [Compiler & Interpreter](https://medium.com/@milankathiriya/translator-compiler-interpreter-522ce6b75e55)
-- Installation and Intro of Turbo C++
+- [Installation and Intro of Turbo C++](https://medium.com/@milankathiriya/turbo-c-intro-installation-4a03481c7411)
