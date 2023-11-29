@@ -11,4 +11,4 @@
 ## Lec. 1.2 [PPT](https://drive.google.com/file/d/18oIy8TmedLwMDtRg1aKn8bmr-y2NQbsq/view?usp=drive_link)
 - [Simple printf() Function](https://medium.com/@milankathiriya/the-simple-pritnf-function-in-c-language-4848948d882a)
 - [Escape Sequence Characters (\n & \t)](https://medium.com/@milankathiriya/escape-sequence-characters-in-c-language-a2091662a52c)
-- Basic Program
+- [Basic Program](https://medium.com/@milankathiriya/basic-program-structure-of-c-language-05b9e5f7167e)
