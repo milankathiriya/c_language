@@ -6,3 +6,9 @@
 - [Importance of C](https://medium.com/@milankathiriya/importance-features-of-c-language-7fe80a1a754b)
 - [Compiler & Interpreter](https://medium.com/@milankathiriya/translator-compiler-interpreter-522ce6b75e55)
 - [Installation and Intro of Turbo C++](https://medium.com/@milankathiriya/turbo-c-intro-installation-4a03481c7411)
+
+
+## Lec. 1.2 [PPT](https://drive.google.com/file/d/18oIy8TmedLwMDtRg1aKn8bmr-y2NQbsq/view?usp=drive_link)
+- Simple printf() Function
+- Escape Sequence Characters (\n & \t)
+- Basic Program
