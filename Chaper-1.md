@@ -9,6 +9,6 @@
 
 
 ## Lec. 1.2 [PPT](https://drive.google.com/file/d/18oIy8TmedLwMDtRg1aKn8bmr-y2NQbsq/view?usp=drive_link)
-- Simple printf() Function
+- [Simple printf() Function](https://medium.com/@milankathiriya/the-simple-pritnf-function-in-c-language-4848948d882a)
 - Escape Sequence Characters (\n & \t)
 - Basic Program
