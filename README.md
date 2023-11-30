@@ -22,3 +22,9 @@
 - Variables
 - Format Specifiers
 - printf() Function For Variables
+
+### Lec. 2.2
+- Keywords
+- Constant
+- Format Specifiers In Detail
+- scanf() Function 
