@@ -23,7 +23,7 @@
 - Format Specifiers
 - printf() Function For Variables
 
-### Lec. 2.2
+### Lec. 2.2 [PPT](https://drive.google.com/file/d/1w_JI4lh_zfng5nuH49kYgaF6qECt9Ah7/view?usp=sharing)
 - Keywords
 - Constant
 - Format Specifiers In Detail
