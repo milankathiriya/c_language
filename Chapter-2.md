@@ -10,4 +10,4 @@
 - [Keywords](https://medium.com/@milankathiriya/keywords-in-c-language-929426f203ac)
 - [Constant](https://medium.com/@milankathiriya/constant-variable-in-c-language-ccc825c9ddbc)
 - [Format Specifiers In Detail](https://medium.com/@milankathiriya/variables-data-types-and-format-specifiers-in-c-language-2ceb84b26a1e#:~:text=string%20Data%20Type-,Format%20Specifier,-Format%20specifier%20is)
-- scanf() Function 
+- [scanf() Function](https://medium.com/@milankathiriya/the-simple-scanf-function-in-c-language-cf8ce59d75e6)
