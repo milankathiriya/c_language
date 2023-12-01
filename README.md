@@ -28,3 +28,13 @@
 - Constant
 - Format Specifiers In Detail
 - scanf() Function 
+
+
+## Chapter 3 - GitHub
+
+### Lec. 3.1
+- What is GitHub?
+- Installation of Git
+- Creating GitHub Account
+- Create first GitHub Repository
+- Push on GitHub
