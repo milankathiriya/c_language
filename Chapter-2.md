@@ -9,5 +9,5 @@
 ## Lec. 2.2 [PPT](https://drive.google.com/file/d/1w_JI4lh_zfng5nuH49kYgaF6qECt9Ah7/view?usp=sharing)
 - Keywords
 - Constant
-- Format Specifiers In Detail
+- [Format Specifiers In Detail](https://medium.com/@milankathiriya/variables-data-types-and-format-specifiers-in-c-language-2ceb84b26a1e#:~:text=string%20Data%20Type-,Format%20Specifier,-Format%20specifier%20is)
 - scanf() Function 
