@@ -38,3 +38,10 @@
 - Creating GitHub Account
 - Create first GitHub Repository
 - Push on GitHub
+
+## Chapter 4 - Operator & Expression
+
+### Lec. 4.1
+- Type Of Operators
+- Operator Precedence
+- Type Conversation
