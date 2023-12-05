@@ -45,3 +45,10 @@
 - Type Of Operators
 - Operator Precedence
 - Type Conversation
+
+## Chapter 5 - Control Structure
+
+### Lec. 5.1
+- If Statement
+- If...Else
+- Ladder 
