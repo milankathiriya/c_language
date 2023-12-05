@@ -5,4 +5,4 @@
 - Installation of Git
 - [Creating GitHub Account](https://medium.com/@milankathiriya/what-is-github-a5debd8a0a8d#:~:text=Create%20GitHub%20Account)
 - Create first GitHub Repository
-- Push on GitHub
+- [Push on GitHub](https://medium.com/@milankathiriya/what-is-git-how-to-push-code-on-github-1cb8df14c73b)
