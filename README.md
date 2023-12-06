@@ -51,4 +51,8 @@
 ### Lec. 5.1 [PPT](https://drive.google.com/file/d/1bG7OywGU9fnrBDGugP5ZQ3doKT9d6vAa/view?usp=sharing)
 - If Statement
 - If...Else
-- Ladder 
+- Ladder
+
+### Lec. 5.2
+- Flowchart Shapes & Creation
+- Nested
