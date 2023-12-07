@@ -9,3 +9,8 @@
 ## Lec. 5.2 [PPT](https://drive.google.com/file/d/1tC_Y6-wGJd0tMhW379rsMtwJoTSY7Szd/view?usp=sharing)
 - [Flowchart Shapes & Creation](https://medium.com/@milankathiriya/what-is-a-flowchart-9a709eb5d93f)
 - [Nested](https://medium.com/@milankathiriya/control-structure-in-c-language-c0679d6822da)
+
+
+## Lec. 5.3
+- Ternary Operator
+- Switch Case 
