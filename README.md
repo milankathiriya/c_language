@@ -60,3 +60,9 @@
 ### Lec. 5.3 [PPT](https://drive.google.com/file/d/1wLNexJlplbPlqlQPdZKQ3u2XHO7SICLd/view?usp=sharing)
 - Ternary Operator
 - Switch Case 
+
+## Chapter 6 - Looping
+
+### Lec. 6.1
+- Types of Loops
+- while loop
