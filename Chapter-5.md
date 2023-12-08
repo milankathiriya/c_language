@@ -12,5 +12,5 @@
 
 
 ## Lec. 5.3 [PPT](https://drive.google.com/file/d/1wLNexJlplbPlqlQPdZKQ3u2XHO7SICLd/view?usp=sharing)
-- Ternary Operator
-- Switch Case 
+- [Ternary Operator](https://medium.com/@milankathiriya/control-structure-in-c-language-c0679d6822da)
+- [Switch Case](https://medium.com/@milankathiriya/control-structure-in-c-language-c0679d6822da)
