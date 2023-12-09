@@ -67,7 +67,7 @@
 - Types of Loops
 - while loop
 
-### Lec. 6.2 
+### Lec. 6.2 [PPT](https://drive.google.com/file/d/1_SJ0doqk8ElGsu_7LAK5z-lW2FzinMgl/view?usp=sharing)
 - Do While Loop
 - Difference Between While & Do While
 - For Loop
