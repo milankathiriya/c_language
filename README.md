@@ -71,3 +71,7 @@
 - Do While Loop
 - Difference Between While & Do While
 - For Loop
+
+### Lec. 6.3
+- Looping Exercises
+- Control Statements (break, continue, and goto)
