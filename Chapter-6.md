@@ -8,3 +8,7 @@
 - Do While Loop
 - Difference Between While & Do While
 - For Loop
+
+## Lec. 6.3 [PPT](https://drive.google.com/file/d/1TJMC5iOmf_fm4sye58HLqXS1icPe2b6b/view?usp=sharing)
+- Looping Exercises
+- [Control Statements (break, continue, and goto)](https://medium.com/@milankathiriya/control-statements-in-c-language-b7fd3f3d30dd)
