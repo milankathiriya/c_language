@@ -75,3 +75,9 @@
 ### Lec. 6.3 [PPT](https://drive.google.com/file/d/1TJMC5iOmf_fm4sye58HLqXS1icPe2b6b/view?usp=sharing)
 - Looping Exercises
 - Control Statements (break, continue, and goto)
+
+## Chapter 7 - Looping with Patterns
+
+### Lec. 7.1
+- Types of Patterns
+- Without Space Pattern
