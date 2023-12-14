@@ -82,6 +82,6 @@
 - Types of Patterns
 - Without Space Pattern
 
-### Lec. 7.2
+### Lec. 7.2 [PPT](https://drive.google.com/file/d/1NqPwggxqEcNC4ws2D-nIKWZHSHCSWTUQ/view?usp=sharing)
 - With Space Pattern
 - Custom Pattern
