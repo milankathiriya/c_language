@@ -85,3 +85,9 @@
 ### Lec. 7.2 [PPT](https://drive.google.com/file/d/1NqPwggxqEcNC4ws2D-nIKWZHSHCSWTUQ/view?usp=sharing)
 - With Space Pattern
 - Custom Pattern
+
+## Chapter 8 - Array in Detail
+
+### Lec. 8.1
+- Types of Array
+- 1D Array
