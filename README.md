@@ -91,3 +91,6 @@
 ### Lec. 8.1 [PPT](https://drive.google.com/file/d/1bG2lPMHfAGegIcw4Pkiw0HCKsvd2UPqb/view?usp=sharing)
 - Types of Array
 - 1D Array
+
+### Lec. 8.2
+- 1D Array Exercises
