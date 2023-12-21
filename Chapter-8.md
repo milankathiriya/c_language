@@ -8,4 +8,4 @@
 - 1D Array Exercises
 
 ## Lec. 8.3
-- 2D Array
+- [2D Array](https://medium.com/@milankathiriya/array-in-c-language-82778c2fbb34#:~:text=as%20shown%20below%3A-,2D%20Array,-A%202D%20array)
