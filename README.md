@@ -94,3 +94,6 @@
 
 ### Lec. 8.2
 - 1D Array Exercises
+
+### Lec. 8.3
+- 2D Array
