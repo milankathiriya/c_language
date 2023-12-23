@@ -5,6 +5,6 @@
 - ASCII value in detail
 - String creation, display & insertion
 
-## Lec. 9.2
+## Lec. 9.2 [PPT](https://drive.google.com/file/d/1GnraIimiyfz6kk2kcE0ajS7TzubTOTqh/view?usp=sharing)
 - NULL & '\0'
 - String built-in functions
