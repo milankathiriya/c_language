@@ -116,7 +116,7 @@
 - TNRN (Take Nothing, Return Nothing)
 - TSRN (Take Something, Return Nothing)
 
-### Lec. 10.2
+### Lec. 10.2 [PPT](https://drive.google.com/file/d/1x2uvDNorE12miFwk3dmCf7KwcEav6VlA/view?usp=sharing)
 - TNRS (Take Nothing, Return Something)
 - TSRS (Take Something, Return Something)
 - Nested Functions
