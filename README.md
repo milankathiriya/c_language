@@ -121,3 +121,10 @@
 - TSRS (Take Something, Return Something)
 - Nested Functions
 - Recursion
+
+## Chapter 11 - Pointer
+
+### Lec. 11.1
+- sizeof() operator & Pointer
+- Scale of Pointer
+- Poniter with array & string
