@@ -128,3 +128,8 @@
 - sizeof() operator & Pointer
 - Scale of Pointer
 - Poniter with array & string
+
+### Lec. 11.2
+- Pointer of Array
+- Chain of Pointer
+- Pointer with UDF
