@@ -4,3 +4,8 @@
 - sizeof() operator & Pointer
 - Scale of Pointer
 - Poniter with array & string
+
+## Lec. 11.2 [PPT](https://drive.google.com/file/d/1Gy8nGIDvNIFXccn3D0IZ9veDsvBWMkVs/view?usp=sharing)
+- Pointer of Array
+- Chain of Pointer
+- Pointer with UDF
