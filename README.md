@@ -134,3 +134,10 @@
 - Pointer of Array
 - Chain of Pointer
 - Pointer with UDF
+
+## Chapter 12 - Structure, Union & Enumeration
+
+### Lec. 12.1
+- Structure & sizeof()
+- Union
+- Enumeration
