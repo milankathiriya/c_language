@@ -2,7 +2,7 @@
 
 ## Chapter 1 - Introduction to C Language
 
-### Lec. 1.1 [PPT](https://drive.google.com/file/d/1NoOlBjOtYKtkJ8BovOl5F2NyZcMk8XJT/view?usp=sharing)
+### Lec. 1.1 [PPT](https://drive.google.com/file/d/1k4PNIpUyeN14l9zyqG7LDunY4nn87au1/view?usp=sharing)
 - What is Programming?
 - History of C
 - Importance of C
